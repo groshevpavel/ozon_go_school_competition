@@ -21,4 +21,4 @@
 Примечания:
 Все числа используемые в задаче находятся в диапазоне 0 < N < 9999999999
 
-![alt text](http://k50.ru/img/logos/logo_on_red.png "Logo Title Text 1")
+![alt text](ozon_go_contest_taskF_01.png "Метрики верного решения")
