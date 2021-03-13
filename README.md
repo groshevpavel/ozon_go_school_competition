@@ -22,3 +22,12 @@
 Все числа используемые в задаче находятся в диапазоне 0 < N < 9999999999
 
 ![alt text](ozon_go_contest_taskF_01.png "Метрики верного решения")
+
+Вердикт проверки тестов
+![alt text](ozon_go_contest_taskF_02.png "Вердикт")
+
+python-код решения
+![alt text](ozon_go_contest_taskF_03.png "python-код решения")
+
+Хинт по быстродействию pop
+![alt text](python_pop_пример_быстродействия.png "Хинт по быстродействию pop")
